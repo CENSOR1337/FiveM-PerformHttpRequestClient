@@ -4,5 +4,5 @@ This resource will allow client sided resource to use function `PerformHttpReque
 Load this resource in the fxmanifest via
 
 ```lua
-client_script '@httprequest-client/init.lua'
+client_script "@httprequest-client/imports.lua"
 ```
